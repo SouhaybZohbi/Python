@@ -1,2 +1,2 @@
-# Python
-Python Projects - Beginner ---> Advanced
+# Python Projects - Beginner
+
