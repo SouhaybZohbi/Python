@@ -1,2 +1,2 @@
-# Python Projects - Beginner
+# Python - 14 Projects - Beginner
 
